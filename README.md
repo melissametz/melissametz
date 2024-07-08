@@ -1,6 +1,4 @@
-# Melissa Metz
-
-## About Me:
+# About Me
 Hi 👋 I am Melissa Metz. I am a Full-Stack Software Enigneer and have two years of experience in Software Development with a solid understanding of Data Structures, and Algorithms. I am always hungry to learn new things and expand my knowledge and expertise. I love problem solving and using the best tools and technologies to solve them. 
 
 ## 🌱 Currently learning:
