@@ -1,7 +1,7 @@
 # Melissa Metz
 
 ## About Me:
-Hi 👋 I am Melissa Metz. Currently, I work as a Paralegal and Data Analyst at an Employment Law Firm in Oakland, California. I built and manage the firm's website, and use SQL to calculate Wage and Hour Penalties for damage models used in Mediation. I am also a Full-Stack Software Enigneer and have two years of experience in Software Development with a solid understanding of Data Structures, and Algorithms. I am always hungry to learn new things and expand my knowledge and expertise. I love problem solving and using the best tools and technologies to solve them. 
+Hi 👋 I am Melissa Metz. I am a Full-Stack Software Enigneer and have two years of experience in Software Development with a solid understanding of Data Structures, and Algorithms. I am always hungry to learn new things and expand my knowledge and expertise. I love problem solving and using the best tools and technologies to solve them. 
 
 ## 🌱 Currently learning:
 <img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=f29111" alt="MySQL Logo" height="25"/>
