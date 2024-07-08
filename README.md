@@ -8,6 +8,7 @@ Hi 👋 I am Melissa Metz. I am a Full-Stack Software Enigneer and have two year
 <img src="https://img.shields.io/badge/Python-282C34?logo=python" alt="Python Logo" height="25"/>
 <img src="https://img.shields.io/badge/Tailwind-282C34?logo=tailwindcss&logoColor=F7DFIE" alt="Tailwind CSS Logo" height="25"/>
 <img src="https://img.shields.io/badge/figma-282C34?logo=figma" alt="Figma Logo" height="25"/>
+<img src="https://img.shields.io/badge/Contentful-282C34?logo=contentful" alt="Contentful Logo" height="25"/>
 
 ## 😍 Currently in Love with:
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DFIE" alt="JavaScript Logo" height="25"/>
