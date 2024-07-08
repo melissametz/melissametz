@@ -10,10 +10,10 @@ Hi 👋 I am Melissa Metz. I am a Full-Stack Software Enigneer and have two year
 <img src="https://img.shields.io/badge/Contentful-282C34?logo=contentful" alt="Contentful Logo" height="25"/>
 
 ## 😍 Currently in Love with:
+<img src="https://img.shields.io/badge/Figma-282C34?logo=figma" alt="Figma Logo" height="25"/>
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DFIE" alt="JavaScript Logo" height="25"/>
 <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React Logo" height="25"/>
 <img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=0064a5" alt="PostgreSQL Logo" height="25"/>
-<img src="https://img.shields.io/badge/figma-282C34?logo=figma" alt="Figma Logo" height="25"/>
 
 ## ⚡ Core Skills:
 <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap" alt="Bootstrap" height="25"/>
