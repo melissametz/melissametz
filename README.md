@@ -20,10 +20,8 @@ Hi 👋 I am Melissa Metz. I am a Full-Stack Software Enigneer and have two year
 <img src="https://img.shields.io/badge/CSS-282C34?logo=C&logoColor=264de4" alt="CSS Logo" height="25"/>
 <img src="https://img.shields.io/badge/HTML-282C34?logo=html5&logoColor=e34c26" alt="HTML Logo" height="25"/>
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=e34c26" alt="git Logo" height="25"/>
-<img src="https://img.shields.io/badge/Flexbox-282C34?logo=flexbox" alt="FlexBox Logo" height="25"/>
 <img src="https://img.shields.io/badge/Express-282C34?logo=express" alt="Express Logo" height="25"/>
 <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js" alt="Node.js Logo" height="25"/>
-<img src="https://img.shields.io/badge/RESTful_APIs-282C34?logo=restfulapis&logoColor=000000" alt="RESTFUL APIs Logo" height="25"/>
 <img src="https://img.shields.io/badge/Heroku-282C34?logo=Heroku&logoColor=6762a6" alt="Heroku Logo" height="25"/>
 <img src="https://img.shields.io/badge/Render-282C34?logo=Render" alt="Render Logo" height="25"/>
 <img src="https://img.shields.io/badge/Mocha-282C34?logo=Mocha&logoColor=964B00" alt="Mocha Logo" height="25"/>
